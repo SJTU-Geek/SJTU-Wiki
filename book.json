@@ -1,0 +1,36 @@
+{
+	"title": "SJTU Wiki",
+	"description": "上海交通大学非官方百科",
+	"styles": {
+		"website": "assets/website.css"
+	},
+	
+	"language": "zh-hans",
+	"structure": {
+		"readme": "index.md",
+		"summary": "contents.md"
+	},
+	"plugins": [
+	    "-sharing",
+		"-lunr",
+		"-search",
+		"search-pro",
+		"favicon",
+		"back-to-top-button",
+		"chapter-fold",
+		"popup",
+		"tbfed-pagefooter"
+	],
+	"pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy SJTU Wiki,",
+            "modify_label": "此页面最后修改时间：",
+            "modify_format": "YYYY-MM-DD HH:mm"
+        },
+        "favicon": {
+            "shortcut": "assets/favicon.ico",
+            "bookmark": "assets/favicon.ico"
+        }
+    }
+
+}
