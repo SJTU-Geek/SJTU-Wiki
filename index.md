@@ -5,7 +5,7 @@ SJTU Wiki是一个由学生主导建设的校园百科平台，旨在整合上�
 我们希望为各位上海交通大学的学子提供最新最准确的官方信息。但由于事物发展飞快，请您在使用信息时参考页面底部的页面最后修改时间，以最新官方信息为准。
 
 
-其他学校wiki参考
+其他高校的wiki参考：
 - 清华大学：https://thu.wiki/docs/intro
 - 天津大学：https://wiki.tjubot.cn/
 - 南京财经大学：https://nufe.wiki/cn/docs/
