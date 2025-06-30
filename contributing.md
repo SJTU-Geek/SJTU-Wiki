@@ -1,0 +1,23 @@
+## 参与编辑
+
+本站的编辑组尝试收集整理最新的官方信息，但其工作量并不小。如果您也愿意为SJTU Wiki做出贡献，让更多交大学子受益，请查看招募贴：https://shuiyuan.sjtu.edu.cn/t/topic/385394
+
+### 工作流
+
+要将您的文章投稿到SJTU-Wiki，您需要Fork一份本代码仓，并在自己的代码仓中进行编辑，完成后提交[Pull Request](https://github.com/SJTU-Geek/SJTU-Wiki/pulls)来申请合入代码，至少两名管理员同意后会将您的代码合入到本代码仓，并自动更新到预览网站。
+
+如果您对Github的操作有疑问，可参考[这篇Github使用教程](https://github.com/jynew/jynew/wiki/%E5%86%99%E7%BB%99%E6%96%B0%E6%89%8B%E7%9A%84%E9%87%91%E7%BE%A4%E9%87%8D%E5%88%B6%E7%89%88github%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)（记得在SJTU-Wiki的代码仓中操作）。
+
+### 编辑语法
+
+本wiki目前采用GitBook软件，将Markdown文件转换为一篇篇文章。
+
+Markdown语言非常简单易上手（水源社区也在使用），如果您不了解什么Markdown，可以参考[这篇Markdown教程](https://soc.ustc.edu.cn/Digital/2024/lab0/markdown/)。
+
+### 目录
+
+如果你希望新增或是修改目录和文章，请记得在[contents.md](contents.md)的导航中进行对应更改。请将目录名和文件名命名为目录和文章的对应英文。
+
+### 图片
+
+请将所有图片存放在/images目录下的对应文章目录，如`undergraduate-study/study-plan/category.html`页面用到的图片请放在`/images/undergraduate-study/study-plan`目录中。请将图片重命名为有意义的文件名。

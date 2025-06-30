@@ -1,7 +1,6 @@
 # SJTU-Wiki
 SJTU Wiki是一个由学生主导建设的校园百科平台，旨在整合上海交通大学校内各类学习、生活、事务办理等信息资源，构建便捷、高效的信息导航系统，致力于打造一个由学生主导、持续更新的校园知识库。
 
-## 参与编辑
+预览网站：https://sjtu-geek.github.io/SJTU-Wiki/
 
-本站的编辑组尝试收集整理最新的官方信息，但其工作量并不小。如果您也愿意为SJTU Wiki做出贡献，让更多交大学子受益，请查看招募贴：[https://shuiyuan.sjtu.edu.cn/t/topic/385394](https://shuiyuan.sjtu.edu.cn/t/topic/385394)
-
+如果你想参与SJTU-Wiki的建设，请查看[这篇文章](contributing.md)。

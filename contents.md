@@ -62,11 +62,9 @@
     * [荣誉和奖学金](growth/award.md)
 
 
-
-
 ----
 
-* [参与编辑](join.md)
+* [参与编辑](contributing.md)
 * [结语](epilogue.md)
 
 ----
