@@ -35,6 +35,7 @@
         * [课程类别](undergraduate-study/study-plan/category.md)
         * [体育与体测](undergraduate-study/study-plan/pe.md)
         * [第二课堂](undergraduate-study/study-plan/dekt.md)
+    * [微辅修](undergraduate-study/minor.md)
     * [选课](undergraduate-study/select-course.md)
     * [考试](undergraduate-study/exam.md)
     * [学积分](undergraduate-study/score.md)
