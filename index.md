@@ -13,3 +13,5 @@ SJTU Wiki是一个由学生主导建设的校园百科平台，旨在整合上�
 - 西南交通大学：https://wiki.swjtu.top/
 - 西安邮电大学：https://wiki.cooo.site/
 - 华东理工大学：https://wiki.ecustvr.top/
+- 东北大学：https://neuwiki.top/
+- 东北师范大学：https://innenu.com/
