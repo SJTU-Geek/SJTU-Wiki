@@ -16,6 +16,7 @@
 * [信息服务](information-service/index.md)
     * [jAccount账号](information-service/jaccount.md)
     * [网络](information-service/network.md)
+    * [HPC高性能计算服务](information-service/hpc.md)
     * [其他信息服务](information-service/others.md)
 
 * [生活服务](living-service/index.md)
