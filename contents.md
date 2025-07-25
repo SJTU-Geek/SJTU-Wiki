@@ -42,6 +42,7 @@
     * [学积分](undergraduate-study/score.md)
     * [科研](undergraduate-study/research.md)
     * [竞赛](undergraduate-study/competition.md)
+    * [保研](undergraduate-study/postgraduate-recommendation.md)
     * [毕业](undergraduate-study/graduation.md)
 
 * [研究生学习](graduate-study/index.md)
