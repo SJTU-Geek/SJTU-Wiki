@@ -8,6 +8,8 @@
 
 如果您对Github的操作有疑问，可参考[这篇Github使用教程](https://github.com/jynew/jynew/wiki/%E5%86%99%E7%BB%99%E6%96%B0%E6%89%8B%E7%9A%84%E9%87%91%E7%BE%A4%E9%87%8D%E5%88%B6%E7%89%88github%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)（记得在SJTU-Wiki的代码仓中操作）。
 
+我们还为不熟悉Github的用户准备了问卷投稿方式，您可以直接提交文本或上传word/md文档参与Wiki建设：[https://ssc.sjtu.edu.cn/f/f787ebb3](https://ssc.sjtu.edu.cn/f/f787ebb3)
+
 ### 编辑语法
 
 本wiki目前采用GitBook软件，将Markdown文件转换为一篇篇文章。
@@ -18,7 +20,7 @@ Markdown语言非常简单易上手（水源社区也在使用），如果您不
 
 ### Wiki内容规则
 
-我们希望您能以书面、客观的语言描述上海交通大学的客观事实，并对其中变化较快的内容着重说明。
+我们希望您能以书面、客观的语言描述上海交通大学的客观事实，并对其中变化较快的内容提示说明。
 
 请勿上传违反法规校纪和公序良俗的内容。
 
