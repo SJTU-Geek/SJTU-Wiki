@@ -14,7 +14,7 @@
 | 3D造物社                         | 暂无                   | 暂无                   |
 | 525街舞协会                       | 525dancecrewSJTU     | 945078332            |
 | 800号电影社                     | 800号电影社            | 暂无                   |
-| Freedom Zone动漫协会              | 浮泽                   | 901559885            |
+| Freedom Zone动漫协会              | 浮泽                   | 1039892016            |
 | Fsquare舞蹈协会                   | Fsquare舞社            | 1130329805           |
 | J-Teen说唱社                     | J-Teen说唱社            | 暂无                   |
 | Linux用户组                      | SJTUG                | 715273806            |
