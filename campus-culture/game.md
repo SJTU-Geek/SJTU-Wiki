@@ -44,7 +44,7 @@
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
 ## <span id="G">G</span>
-- Galgame 1139862675
+- Galgame 835496134
 - 光遇 462952152
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
