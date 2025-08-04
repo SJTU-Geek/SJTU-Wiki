@@ -112,11 +112,11 @@
 
 ### 虚拟课表排课工具Course+
 
-在选课开始前，推荐使用[虚拟课表排课工具Course+](https://geek.sjtu.edu.cn/course-plus)预先排课，以防止选课冲突。
+在选课开始前，推荐使用[虚拟课表排课工具Course+](https://geek.sjtu.edu.cn/course-plus)<sup>[非官方内容，请谨慎参考]</sup>预先排课，以防止选课冲突。
 
 ### SJTU选课社区
 
-选课前可以通过[SJTU选课社区](https://course.sjtu.plus/)查阅上过该课程同学对于课程的评价。
+选课前可以通过[SJTU选课社区](https://course.sjtu.plus/)<sup>[非官方内容，请谨慎参考]</sup>查阅上过该课程同学对于课程的评价。
 
 ## 注意事项
 
