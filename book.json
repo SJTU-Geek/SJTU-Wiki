@@ -19,7 +19,8 @@
 		"back-to-top-button",
 		"chapter-fold",
 		"popup",
-		"tbfed-pagefooter"
+		"tbfed-pagefooter",
+		"enhanced-katex"
 	],
 	"pluginsConfig": {
         "tbfed-pagefooter": {
