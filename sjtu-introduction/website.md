@@ -1,8 +1,8 @@
 # 常用网站
 ## 通知信息
-1. [上海交通大学中文主页门户网站](https://www.sjtu.edu.cn/)：获取交大要闻等官方信息
-2. [上海交通大学教务处](https://jwc.sjtu.edu.cn/)：获取选课，转专业，评教等教育教学方面通知
-3. [校园活动平台](https://activity.sjtu.edu.cn/academic)：获取校园活动相关资讯
+1. [上海交通大学中文主页门户网站](https://www.sjtu.edu.cn/)：获取交大要闻等官方信息。
+2. [上海交通大学教务处](https://jwc.sjtu.edu.cn/)：获取选课，转专业，评教等教育教学方面通知。
+3. [校园活动平台](https://activity.sjtu.edu.cn/academic)：获取校园活动相关资讯。
 
 ## 学在交大
 1. [Canvas教学平台](https://oc.sjtu.edu.cn/)：除浦江国际学院外，绝大多数交大人最常用的学习平台，从交作业到听回放，全方位陪伴你学在交大。
@@ -29,9 +29,9 @@
 | **交叉学科**  | [致远学院](https://zhiyuan.sjtu.edu.cn) <br> [教育学院](https://soe.sjtu.edu.cn/) <br> [智慧能源创新学院](https://www.senergy.sjtu.edu.cn/) <br> [溥渊未来技术学院](https://gift.sjtu.edu.cn/) <br> [人工智能学院](https://soai.sjtu.edu.cn/) <br> [心理学院](https://psychology.sjtu.edu.cn/) |
 
 ## 日常生活
-1. [交我办](https://my.sjtu.edu.cn/)：以防你不知道，交我办也有网页版
-2. [上海交通大学学生事务中心](https://affairs.sjtu.edu.cn/) ：学生事务门户网站
-3. [上海交通大学绿色爱心屋](https://aixinwu.sjtu.edu.cn/)：爱心物资领取和置换，学位服收音机租赁，就在爱心屋
+1. [交我办](https://my.sjtu.edu.cn/)：以防你不知道，交我办也有网页版。
+2. [上海交通大学学生事务中心](https://affairs.sjtu.edu.cn/) ：学生事务门户网站。
+3. [上海交通大学绿色爱心屋](https://aixinwu.sjtu.edu.cn/)：爱心物资领取和置换，学位服收音机租赁，就在爱心屋。
 4. [水源社区](https://shuiyuan.sjtu.edu.cn/)：交大人分享生活，交流观点的平台。
 5. [上海交通大学学生创新中心](https://www.si.sjtu.edu.cn/home)：上海交大学子创新创业实践的练武堂，人气聚集的新高地。
 6. [上海交通大学励志讲坛](https://lzjt.sjtu.edu.cn/)：有空的时候，不妨去听听讲座。
@@ -44,10 +44,14 @@
 
 ## 工具资源
 1. [交大邮箱](https://mail.sjtu.edu.cn/)
-2. [交大云盘](https://jbox.sjtu.edu.cn/)：独属交大人的网盘服务
-3. [水源文档](https://notes.sjtu.edu.cn/)：Markdown协作笔记平台
+2. [交大云盘](https://pan.sjtu.edu.cn/)：提供独属交大人的网盘服务。
+3. [水源文档](https://notes.sjtu.edu.cn/)：Markdown协作笔记平台。
 4. [SJTU 在线 LaTex 文档编辑器](https://latex.sjtu.edu.cn/)
 5. [DeepSeek本地版](https://chat.sjtu.edu.cn/)
 6. [SJTU Git Lab](https://git.sjtu.edu.cn/)
-7. [上海交通大学正版软件授权中心](https://software.sjtu.edu.cn/) ：获取授权软件
+7. [上海交通大学正版软件授权中心](https://software.sjtu.edu.cn/) ：获取授权软件。
 8. [智能问卷服务平台](https://wj.sjtu.edu.cn/)
+9. [交大VPN](https://net.sjtu.edu.cn/xxfw/VPN.htm)：在校外时，可借助交大VPN访问一些原本只有校内才能访问的网站。
+10. [交大电子地图](https://map.sjtu.edu.cn/)
+11. [视觉形象中心](https://vi.sjtu.edu.cn/index.php/articles/bulletin/13)：下载PPT模版、常用校标等。
+12. [校历查询](https://jwc.sjtu.edu.cn/jxxl/lnxl.htm)
