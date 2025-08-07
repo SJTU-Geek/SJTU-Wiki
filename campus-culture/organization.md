@@ -33,9 +33,10 @@ NIMO现面向2025-2027学年在闵行校区的全体2025级新生（包括本科
 群号：1002703691
 
 #### 官网报名入口
-![](https://notes.sjtu.edu.cn/uploads/upload_d93943bd7636884cd108c7c036c3baf5.png)
+[加入我们](https://nimo.sjtu.edu.cn/kaleid/oscope/joinus/)
 
 #### 注明
 - 具体报名开放时间请以招募QQ群通知为准
 - 了解NIMOer的更多丰富资讯一定要加入NIMO招募QQ群哦，一键订阅NIMOer的精彩生活（包括破冰，春游，年会等一系列活动）
 - 加入NIMO，与NIMOer一起成长，度过一个别样的大学生活。
+- 注意本部分内容具有一定时效性

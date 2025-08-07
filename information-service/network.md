@@ -6,8 +6,8 @@
 
 ## 可供参考的资料
 
-- [【wiki】如何在交大愉快的上网冲浪](https://shuiyuan.sjtu.edu.cn/t/topic/279928)
 
+- [【wiki】如何在交大愉快的上网冲浪](https://shuiyuan.sjtu.edu.cn/t/topic/279928)<sup>[非官方内容，请谨慎参考]</sup>
 
 - [宿舍网络用户手册（2024）](https://nimo.sjtu.edu.cn/wiki/user-manual-2024/)
 
