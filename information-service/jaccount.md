@@ -2,10 +2,10 @@
 
 jAccount是上海交通大学为在校师生分配的身份识别账号，具有唯一性，常用于校内系统的登录与身份验证。
 
-**请谨慎选取jAccount**。其原因之一为，jAccount将被用于命名在校师生的交大邮箱地址，格式为`[jAccount]@sjtu.edu.cn`。例如，若用户的jAccount为`wangxiaoming`，则其交大邮箱名为`wangxiaoming@sjtu.edu.cn`。介于交大邮箱常有学术用途，请谨慎命名，这将有助于邮件识别、学术沟通及资料管理，增强专业形象，以减少因邮箱名奇异而导致的不必要的误会与损失。具体命名可参考[水源上的jAccount命名统计](https://shuiyuan.sjtu.edu.cn/t/topic/278318)。
+**请谨慎选取jAccount**。其原因之一为，jAccount将被用于命名在校师生的交大邮箱地址，格式为`[jAccount]@sjtu.edu.cn`。例如，若用户的jAccount为`wangxiaoming`，则其交大邮箱名为`wangxiaoming@sjtu.edu.cn`。由于交大邮箱常有学术用途，请谨慎命名，这将有助于邮件识别、学术沟通及资料管理，增强专业形象，以减少因邮箱名奇异而导致的不必要的误会与损失。具体命名可参考[水源上的jAccount命名统计](https://shuiyuan.sjtu.edu.cn/t/topic/278318)。
 
 > 一个简单的例子：
-> 假如你叫邱之汶，生日为2003年4月15日，英文名是Adrian. 下面是一些命名jAccount的常见方式：
+> 假如你叫邱之汶，生日为2003年4月15日. 下面是一些命名jAccount的常见方式：
 > 1. **qiuzhiwen**，姓名缩写
 > 2. **qiuzhiwen0415**，姓名缩写+生日
 > 2. **qiuzhiwen_0415**，姓名缩写+下划线+生日
