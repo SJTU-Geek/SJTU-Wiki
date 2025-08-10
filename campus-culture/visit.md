@@ -4,9 +4,9 @@
 
 一般的社会访客的预约通道，每日分为上午(7:00-13:00)和下午(13:00-20:00)两个时段，每个时段有**人数限制**。
 
-
 可在 微信公众号“上海交通大学”-参观交大 查看最新入校政策。
 当前入校政策(复制自公众号)：
+
 
 【访客须知】
 1、上海交通大学为重要的教学科研场所，非旅游景点，不向任何人员和机构收取参观费用；
@@ -23,17 +23,17 @@
 * [团体访客](https://hellocampus.sjtu.edu.cn/)（注：团体指10人及以上来自于同一个学校或企事业单位的团体）
 
 【管理规定】
-[校园文明行为暂行管理规定](https://xygl.sjtu.edu.cn/?m=module_g_article.ui_portal.detail&id=334DA3ACC7DA78E7404EF791475F6E98)
-[校园访客参观管理暂行办法](https://gk.sjtu.edu.cn/Assets/userfiles/sys_eb538c1c-65ff-4e82-8e6a-a1ef01127fed/files/20250702/20250702141303220.pdf)
+* [校园文明行为暂行管理规定](https://xygl.sjtu.edu.cn/?m=module_g_article.ui_portal.detail&id=334DA3ACC7DA78E7404EF791475F6E98)
+* [校园访客参观管理暂行办法](https://gk.sjtu.edu.cn/Assets/userfiles/sys_eb538c1c-65ff-4e82-8e6a-a1ef01127fed/files/20250702/20250702141303220.pdf)
 
 
 
 ## 学生亲友预约
 学生亲友的预约通道，在一般访客预约之外可享受**额外的名额**。
 
-
-可在 交我办搜索“[学生亲友进校备案]( https://form.sjtu.edu.cn/infoplus/form/student_relatives_inout/start) ”进行办理。
+可在 交我办搜索“[学生亲友进校备案](https://form.sjtu.edu.cn/infoplus/form/student_relatives_inout/start) ”进行办理。
 申报须知：
+
 
 1、为满足在校师生的来访需要，师生可为**亲友、工作等需要入校的非本校人员**进行申报，申报时请准确填报人员信息并写明入校事由；
 2、每日申请入校人数**不超过10人**，如超过10人为团体访客，教工可通过二级单位办公室主任申请，学生由思政老师代为向学院办公室老师申请；
