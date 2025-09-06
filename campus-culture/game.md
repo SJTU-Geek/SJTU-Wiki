@@ -71,6 +71,7 @@
 
 ## <span id="L">L</span>
 - 狼人杀 410170117
+- 炉石传说 689092307
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
 ## <span id="M">M</span>
