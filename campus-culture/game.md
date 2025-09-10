@@ -53,6 +53,7 @@
 - 和平精英 713396248
 - 皇室战争 957525327
 - 荒野乱斗 981674484
+- 环世界 760966789
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
 ## <span id="I">I</span>
@@ -70,6 +71,7 @@
 
 ## <span id="L">L</span>
 - 狼人杀 410170117
+- 炉石传说 689092307
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
 ## <span id="M">M</span>
