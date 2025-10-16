@@ -72,8 +72,6 @@
 
 ----
 
-# 经验分享
-
-* [概述](experience/index.md)
+* [经验分享概述](experience/index.md)
 * [交大生存手册](experience/survive.md)
-* [水源精品贴](experience/shuiyuan.md)
+* [水源经验贴](experience/shuiyuan.md)
