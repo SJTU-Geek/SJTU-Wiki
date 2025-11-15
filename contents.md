@@ -62,7 +62,7 @@
 
 * [个人成长](growth/index.md)
     * [入党流程](growth/party.md)
-    * [荣誉和奖学金](growth/award.md)
+    * [奖助学金](growth/financial-aid.md)
 
 
 ----
