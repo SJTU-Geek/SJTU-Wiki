@@ -13,4 +13,4 @@
 
 ## 疑难处理
 
-如果您在校园内使用宿舍网络的过程中遇到问题，可以选择联系[网管部]([nimo.sjtu.edu.cn](https://nimo.sjtu.edu.cn/wiki/user-manual-2024/contact-us/))
+如果您在校园内使用宿舍网络的过程中遇到问题，可以选择联系[网管部](https://nimo.sjtu.edu.cn/wiki/user-manual-2024/contact-us/)
