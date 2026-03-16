@@ -2,7 +2,7 @@
 
 jAccount是上海交通大学为在校师生分配的身份识别账号，具有唯一性，用于校内系统的登录与身份验证。
 
-**请谨慎选取jAccount**。其原因之一为，jAccount将被用于命名在校师生的交大邮箱地址，格式为`[jAccount]@sjtu.edu.cn`。例如，若用户的jAccount为`wangxiaoming`，则其交大邮箱名为`wangxiaoming@sjtu.edu.cn`。由于交大邮箱常有学术用途，请谨慎命名，这将有助于邮件识别、学术沟通及资料管理，增强专业形象，以减少因邮箱名奇异而导致的不必要的误会与损失。具体命名可参考[水源上的jAccount命名统计](https://shuiyuan.sjtu.edu.cn/t/topic/278318)<sup>[非官方内容，请谨慎参考]</sup>。
+**请谨慎选取jAccount**。其原因之一为，jAccount将被用于命名在校师生的交大邮箱地址，格式为`[jAccount]@sjtu.edu.cn`。例如，若用户的jAccount为`wangxiaoming`，则其交大邮箱名为`wangxiaoming@sjtu.edu.cn`。由于交大邮箱常有学术用途，请谨慎命名，这将有助于邮件识别、学术沟通及资料管理，增强专业形象，以减少因邮箱名奇异而导致的不必要的误会与损失。具体命名可参考水源社区帖子[jAccount命名统计](https://shuiyuan.sjtu.edu.cn/t/topic/278318)<sup>[非官方内容，请谨慎参考]</sup>。
 
 > 一个简单的例子：
 > 假如你叫邱之汶，生日为2003年4月15日。下面是一些命名jAccount的常见方式：
@@ -21,6 +21,6 @@ jAccount是上海交通大学为在校师生分配的身份识别账号，具有
 > 3. 不建议取别人的名字作为jAccount，尤其不建议取类似于**love+对象的名字**这一类的jAccount
 > 4. 如果姓名比较容易重名，可以考虑后缀生日或英文名或简易字段
 
-请注意，**jAccount一经开通，无法修改名称，只能销号后重开一个新账号**，且与之前账号绑定的邮箱将无法找回，与该邮箱绑定的其他账号一旦忘记密码，无法通过邮箱找回。注销重开jAccount的方法（以及本科生升研究生账号迁移）影响参考如下：[水源-jAccount用户名修改](https://shuiyuan.sjtu.edu.cn/t/topic/176353)<sup>[非官方内容，请谨慎参考]</sup>、[本校直升注销重申Jaccount账户探雷](https://shuiyuan.sjtu.edu.cn/t/topic/399448)<sup>[非官方内容，请谨慎参考]</sup>。
+请注意，**jAccount一经开通，无法修改名称，只能销号后重开一个新账号**，且与之前账号绑定的邮箱将无法找回，与该邮箱绑定的其他账号一旦忘记密码，无法通过邮箱找回。注销重开jAccount的方法（以及本科生升研究生账号迁移）影响参考如下：[水源-jAccount用户名修改](https://shuiyuan.sjtu.edu.cn/t/topic/176353)<sup>[非官方内容，请谨慎参考]</sup>、[本校直升注销重申jAccount账户探雷](https://shuiyuan.sjtu.edu.cn/t/topic/399448)<sup>[非官方内容，请谨慎参考]</sup>。
 
 由于**jAccount和你的身份强关联**，为防止信息泄露及由此可能引发的网络安全风险，不建议在互联网等匿名交流平台泄露你的jAccount。水源社区的默认用户名和昵称会被设置为你的jAccount名，注册时或注册后建议尽快修改。
