@@ -8,7 +8,7 @@ order: 2
 2. [上海交通大学教务处](https://jwc.sjtu.edu.cn/)：获取选课，转专业，评教等教育教学方面通知。
 3. [教学信息服务网](https://i.sjtu.edu.cn/)：选课、课表、成绩、考试安排、培养计划等教务事项的主要入口。
 4. [迎新网](https://welcome.sjtu.edu.cn/)：新生入学前后的报到、缴费、宿舍、体检、军训等通知入口。
-5. [校园活动平台](https://activity.sjtu.edu.cn/academic)：获取校园活动相关资讯。
+5. [校园活动平台](https://activity.sjtu.edu.cn/dekt)：获取第二课堂活动等校园活动相关资讯。
 
 ## 学在交大
 1. [Canvas教学平台](https://oc.sjtu.edu.cn/)：除浦江国际学院外，绝大多数交大人最常用的学习平台，从交作业到听回放，全方位陪伴你学在交大。
