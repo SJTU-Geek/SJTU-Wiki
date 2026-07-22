@@ -7,7 +7,7 @@ order: 3
 
 星级来源：[《2025 年度社团星级评定结果公示》](https://mp.weixin.qq.com/s/pI6wT2YC-CEHB6GK6jjLFw)，公示时间为 2025 年 12 月 18 日。
 
-联系方式来源：[交大社总社团名录与媒体账号指引](https://sjtu-auion.feishu.cn/sheets/IVxTspKNmhGBgstUZrdcyKuenn)，名录更新日期为 2025 年 7 月 2 日。
+联系方式来源：[交大社总社团名录与媒体账号指引](https://sjtu-auion.feishu.cn/sheets/IVxTspKNmhGBgstUZrdcyKuennf)，名录更新日期为 2025 年 7 月 2 日。
 
 网站列仅收录社团自建或明确由社团维护的官网。
 
