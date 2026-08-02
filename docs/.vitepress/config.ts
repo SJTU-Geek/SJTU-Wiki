@@ -1,5 +1,7 @@
-import { withThemeContext } from 'vitepress-theme-sjtu-wiki/utils'
+import { mergeConfig } from 'vite'
+import llmstxt from 'vitepress-plugin-llms'
 import genConfig from 'vitepress-theme-sjtu-wiki/config'
+import { withThemeContext } from 'vitepress-theme-sjtu-wiki/utils'
 
 const githubRepoLink = 'https://github.com/SJTU-Geek/SJTU-Wiki'
 
@@ -77,5 +79,13 @@ export default withThemeContext(
       },
     },
   },
-  () => genConfig(),
+  () => mergeConfig(genConfig(), {
+    vite: {
+      plugins: [
+        ...llmstxt({
+          domain: 'https://sjtu-geek.github.io',
+        }),
+      ],
+    },
+  }),
 )
