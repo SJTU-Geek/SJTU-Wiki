@@ -6,7 +6,7 @@ order: 5
 本文对上海交通大学就读期间涉及的各项费用和收入进行简要介绍。
 
 ## 学习费用
-- 学费、住宿费：见[信息公开网-收费项目](https://gk.sjtu.edu.cn/Data/List/sfxmsfyjsfbzjtsfs)、[医学院收费项目](https://www.shsmu.edu.cn/xxgk/xxgklm1/cwgl/jysfxmjbz.htm)
+- 学费、住宿费：见[信息公开网-收费项目](https://gk.sjtu.edu.cn/Data/List/sfxmsfyjsfbzjtsfs)、[医学院收费项目](https://www.shsmu.edu.cn/xxgk/xxgklm1/cwgl/jysfxmjbz.htm)，助学贷款和学费绿色通道请参考[学生事务中心说明](https://affairs.sjtu.edu.cn/index.php?m=app&v=fundinghall&mid=57)
 - 重修、辅修收费：100元/学分，小语种120元/学分，中期退课不退还（见学生手册和重修辅修缴费通知）
 - 电子/纸质成绩单：5元/份，学历学位证书翻译件：5元/份，出国信封：1元/份，在读证明：免费（见[办事指南](https://jwc.sjtu.edu.cn/bszn/xjyxy.htm)）
 
@@ -30,6 +30,7 @@ order: 5
 - [助学金](/growth/financial-aid)：见[学生事务中心解答](https://affairs.sjtu.edu.cn/index.php?m=app&v=fundinghall&mid=36)
 - [奖学金](/growth/financial-aid)：见各学院通知
 - 助研、助教：见各学院通知
+- 临时困难补助：请参考[学生事务中心说明](https://affairs.sjtu.edu.cn/index.php?m=app&v=fundinghall&mid=50)
 
 ::: tip
 - 每月的生活补贴、勤工助学等收入，一般在每月3日打入中行卡中。
