@@ -101,7 +101,6 @@ order: 5
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
 
 ## <span id="P">P</span>
-- Paradox 750472824
 - Plant VS Zombie (PVZ 植物大战僵尸) 967259382
 - Phigros 479404081
 <div class="top-link">↑ <a href="#">返回顶部</a></div>
