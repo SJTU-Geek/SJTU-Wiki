@@ -3,7 +3,18 @@ title: 学校简介
 order: 10
 ---
 
-上海交通大学介绍：见[官网](https://www.sjtu.edu.cn/xxjj/index.html)
+上海交通大学介绍：见[上海交通大学官网](https://www.sjtu.edu.cn/xxjj/index.html)
+
+校历：见[教务处通知](https://jwc.sjtu.edu.cn/jxxl/lnxl.htm)
+
+校园地图：见[校园电子地图](https://map.sjtu.edu.cn/)
+
+## 交大文化
+
+上海交通大学校徽：见[视觉形象识别系统](https://vi.sjtu.edu.cn/index.php/articles/base/1)
+上海交通大学校训：饮水思源，爱国荣校
+上海交通大学校歌：见[党委宣传部资料](https://dwxcb.sjtu.edu.cn/download)
+上海交通大学历史：见[校史网](https://sjtuhistory.sjtu.edu.cn/)
 
 ## 各校区简介
 
