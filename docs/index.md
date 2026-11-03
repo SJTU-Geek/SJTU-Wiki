@@ -33,7 +33,7 @@ import { HomeContent } from 'vitepress-theme-sjtu-wiki/components'
 <HomeContent>
 
 ::: tip ℹ️
-SJTU Wiki当前正处于试运行阶段，首轮测试运行预计持续到2026年10月30日。SJTU Wiki的内容由社区贡献，请注意甄别内容的真实性。
+SJTU Wiki当前正处于试运行阶段，首轮测试运行预计持续到2026年12月31日。SJTU Wiki的内容由社区贡献，请注意甄别内容的真实性。
 :::
 
 </HomeContent>
