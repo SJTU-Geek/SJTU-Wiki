@@ -10,3 +10,5 @@ order: 4
 - [交我办](https://form.sjtu.edu.cn/mobile/download.jsp)：校内办事、服务查询、流程申请等高频入口，也可以查看课程日程。网页版见[my.sjtu.edu.cn](https://my.sjtu.edu.cn/)。
 
 - [交大云盘](https://pan.sjtu.edu.cn/)：校内云盘服务，适合课程资料、文档和较大文件的同步与分享。网页版见[pan.sjtu.edu.cn](https://pan.sjtu.edu.cn/)。
+
+- [交我汇（jAide）](https://geek.sjtu.edu.cn/products/jaide/)：由思源极客协会出品的交大学生工作智慧助手，支持AI对话和办事、校园资讯订阅、日程管理等功能。
